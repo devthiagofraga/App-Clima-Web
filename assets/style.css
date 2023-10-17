@@ -1,0 +1,22 @@
+body{
+    background-image: url("./Paisagem.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 100%;
+    color:white;
+}
+.app-clima{
+    background-color: black;
+    height: 45vh;
+    width: 40vh;
+    text-align: center;
+    border-radius: 12px;
+    align-items: center;
+    opacity: 0.7;
+}
+.busca{
+    padding-top: 10px;
+}
